@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Parth Chaudhari, an AI & Data Science engineering student with a growing interest in cybersecurity, especially SOC operations, log analysis, and incident response. I also explore bug bounty hunting to understand real-world vulnerabilities and attacker behavior. I enjoy hands-on learning through practical security projects and labs.<br>
+I’m Parth Chaudhari, Artificial Intelligence & Data Science graduate with hands-on experience in data analytics using Python, SQL, Power BI, and Microsoft Fabric. Skilled in data cleaning, analysis, visualization, and dashboard development to support data-driven decision-making. Passionate about data analytics, AI, and business intelligence with a strong commitment to continuous learning.<br>
 
 
 ## 🌐 Socials:
