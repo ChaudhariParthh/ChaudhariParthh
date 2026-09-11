@@ -1,6 +1,12 @@
 # 💫 About Me:
-I’m Parth Chaudhari, Artificial Intelligence & Data Science graduate with hands-on experience in data analytics using Python, SQL, Power BI, and Microsoft Fabric. Skilled in data cleaning, analysis, visualization, and dashboard development to support data-driven decision-making. Passionate about data analytics, AI, and business intelligence with a strong commitment to continuous learning.<br>
+I'm Parth Chaudhari, AI & Data Science graduate specializing in Security Operations and Cybersecurity.
 
+Developing automated SOC solutions, threat detection systems, and incident response workflows using Wazuh, Splunk, and n8n orchestration. Leveraging data analytics (Python, SQL, Power BI) for threat correlation, risk scoring, and security intelligence dashboards.
+
+Proficient in SIEM platforms, threat intelligence integration, log analysis, and real-time security monitoring. Active in bug bounty programs and security research.
+
+Skills: SOC Automation | Threat Detection | SIEM | Data Analytics | Python | SQL | Power BI | n8n
+Projects: TriageForge | Wazuh SIEM Lab | Security Analytics Dashboards
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@chaudhariparth) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@parthchaudhari973) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@DefHackk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parthchaudhari973@gmail.com) 
