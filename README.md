@@ -1,125 +1,92 @@
-# ChaudhariParthh
+<p align="center"><img src="https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=1400&h=360&q=80" alt="banner" width="100%" /></p>
 
-<div align="center">
+<p align="center"><img src="https://github.com/ChaudhariParthh.png?size=240" alt="Parth Chaudhari avatar" width="110" height="110" /></p>
+<h1 align="center">Hi, I'm Parth Chaudhari</h1>
+<h3 align="center">Data Analyst  · India</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cybersecurity+%7C+AI+%7C+Automation+%7C+Data+%7C+Product+Building" alt="Typing SVG" />
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1AE0D2&center=true&vCenter=true&width=600&lines=Aspiring%20Data%20Analyst;Security%20Operations%20%26%20Workflow%20Automation" alt="Typing SVG" /></p>
 
-</div>
-
-I build practical, data-driven, and security-focused solutions at the intersection of AI, automation, and software engineering.
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ChaudhariParthh&label=Profile%20views&color=F2070B&style=flat" alt="profile views" /></p>
 
 ## About Me
 
-I’m a curious technologist passionate about cybersecurity, applied AI, automation workflows, and building useful digital products. My work spans threat detection, data analysis, intelligent tools, and modern application development — with a strong focus on turning ideas into real-world systems that are both useful and scalable.
+I build fast, accessible web apps with TypeScript end to end. I love clean APIs, thoughtful UI, and shipping things people actually use.
 
-I enjoy exploring:
-- Cybersecurity and SOC workflows
-- AI/ML for real-world tasks
-- Data analysis and visualization
-- Automation and workflow orchestration
-- Full-stack and product-oriented development
+- I'm currently working on [GitProfile Studio](https://github.com/ChaudhariParthh/gitprofile-studio.git)
+- I'm currently learning **Rust and distributed systems**
+- Ask me about **React, Node.js and TypeScript**
+- How to reach me **hello@parth.dev**
+- Fun fact: **I enjoy building fast, reliable developer tools**
 
 ## Tech Stack
 
 <p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img alt="Wazuh" src="https://img.shields.io/badge/Wazuh-00A4E4?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img alt="n8n" src="https://img.shields.io/badge/n8n-1D1D1D?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" title="Docker" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" alt="TypeScript" title="TypeScript" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" title="Bash" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" title="React" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" title="TensorFlow" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" title="scikit-learn" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/white" alt="Pandas" title="Pandas" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/white" alt="NumPy" title="NumPy" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" title="OpenCV" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" alt="Jupyter" title="Jupyter" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/keras/white" alt="Keras" title="Keras" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" alt="Kali Linux" title="Kali Linux" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" alt="Wireshark" title="Wireshark" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/metasploit/2596CD" alt="Metasploit" title="Metasploit" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" alt="Burp Suite" title="Burp Suite" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/tryhackme/white" alt="TryHackMe" title="TryHackMe" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/owasp/white" alt="OWASP" title="OWASP" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/splunk/white" alt="Splunk" title="Splunk" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" alt="Firebase" title="Firebase" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" alt="Supabase" title="Supabase" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" title="MySQL" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" title="Linux" width="40" height="40" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="40" height="40" />&nbsp;
+  <img src="https://cdn.simpleicons.org/notion/white" alt="Notion" title="Notion" width="40" height="40" />&nbsp;
 </p>
-
-### Core Skills
-- AI & ML experimentation
-- Cybersecurity investigations and detection workflows
-- Threat hunting and security monitoring
-- Data analysis and business intelligence
-- Automation scripting and workflow design
-- IoT and embedded system prototyping
-- Product / portfolio / app development
 
 ## Featured Projects
 
-### 🔬 AI & Intelligence
-- [Ai_text_summarizer](https://github.com/ChaudhariParthh/Ai_text_summarizer)  
-  A text summarization project using Hugging Face Transformers and the BART CNN model.
+<p align="left">
+  <a href="https://github.com/ChaudhariParthh/gitprofile-studio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariParthh&repo=gitprofile-studio&theme=radical&hide_border=true" alt="gitprofile-studio" /></a>
+  <a href="https://github.com/ChaudhariParthh/pockity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariParthh&repo=pockity&theme=radical&hide_border=true" alt="pockity" /></a>
+  <a href="https://github.com/ChaudhariParthh/bug-hunting-dork-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariParthh&repo=bug-hunting-dork-list&theme=radical&hide_border=true" alt="bug-hunting-dork-list" /></a>
+  <a href="https://github.com/ChaudhariParthh/restore_kali_linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ChaudhariParthh&repo=restore_kali_linux&theme=radical&hide_border=true" alt="restore_kali_linux" /></a>
+</p>
 
-### 🛡️ Cybersecurity & SOC
-- [TriageForge](https://github.com/ChaudhariParthh/TriageForge)  
-  SOC alert triage and investigation automation.
-- [SubMerge](https://github.com/ChaudhariParthh/SubMerge)  
-  Unified subdomain recon and deduplication.
-- [Splunk-Security-Monitoring-and-Detection-Lab](https://github.com/ChaudhariParthh/Splunk-Security-Monitoring-and-Detection-Lab)  
-  Security monitoring and detection lab work with Splunk.
-- [Automated-Phishing-Detection-Workflow](https://github.com/ChaudhariParthh/Automated-Phishing-Detection-Workflow)  
-  Workflow for phishing detection automation.
-- [bug-hunting-dork-list](https://github.com/ChaudhariParthh/bug-hunting-dork-list)  
-  Curated Google dorks for independent bug bounty discovery.
 
-### 📊 Data & Insights
-- [DataAnalysis-PowerBI](https://github.com/ChaudhariParthh/DataAnalysis-PowerBI)  
-  Interactive Power BI dashboards and data storytelling.
-- [AnalyticaLoop](https://github.com/ChaudhariParthh/AnalyticaLoop)  
-  Analytics-focused project exploring data-driven insights and automation.
+## Open Source Impact
 
-### ⚙️ Automation & Tools
-- [n8n-automation](https://github.com/ChaudhariParthh/n8n-automation)  
-  Workflow automation with n8n and connected services.
-- [BFA-Playbook](https://github.com/ChaudhariParthh/BFA-Playbook)  
-  Security playbook and operational workflow project.
-- [Reconnex](https://github.com/ChaudhariParthh/Reconnex)  
-  Recon-oriented tooling and security investigation support.
+<p align="left"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChaudhariParthh&query=public_repos&label=Repos&style=for-the-badge&color=F2070B&logo=github&logoColor=white" alt="public repositories" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChaudhariParthh&query=followers&label=Followers&style=for-the-badge&color=F2070B&logo=github&logoColor=white" alt="followers" /> <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FChaudhariParthh&query=following&label=Following&style=for-the-badge&color=22D3EE&logo=github&logoColor=white" alt="following" /></p>
 
-### 📱 Apps & Product Work
-- [Nutrica](https://github.com/ChaudhariParthh/Nutrica)  
-  Kotlin-based application focused on nutrition and personal wellness.
-- [Parth-Portfolio](https://github.com/ChaudhariParthh/Parth-Portfolio)  
-  Portfolio and digital presence project.
-- [VyaparLite-app](https://github.com/ChaudhariParthh/VyaparLite-app)  
-  Business-focused lightweight app concept.
-- [PrakashSetu](https://github.com/ChaudhariParthh/PrakashSetu)  
-  IoT-based smart street light monitoring and fault detection system.
+<table>
+  <tr><td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ChaudhariParthh&theme=radical&hide_border=true&show_icons=true&include_all_commits=true&count_private=false" alt="GitHub stats" /></td><td valign="top"><img src="https://streak-stats.demolab.com?user=ChaudhariParthh&theme=dark&hide_border=true" alt="GitHub streak" /></td></tr>
+</table>
 
-## GitHub Stats
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudhariParthh&layout=compact&theme=radical&hide_border=true" alt="Top languages" /></p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaudhariParthh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+## Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaudhariParthh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaudhariParthh&theme=github-dark&hide_border=true" alt="Contribution graph" width="100%" /></p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ChaudhariParthh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+## Connect with me
 
-## Currently Learning
+<p align="left">
+  <a href="https://linkedin.com/in/parthchaudhari" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://parth.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:hello@parth.dev" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/ChaudhariParthh" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
-- Advanced cybersecurity workflows and threat detection
-- More scalable AI/ML integrations
-- Automation architecture and optimized tool pipelines
-- Modern frontend and app product design
-- Data storytelling and impactful analytics
+## Support
 
-## Connect with Me
-
-- GitHub: [github.com/ChaudhariParthh](https://github.com/ChaudhariParthh)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- X / Twitter: [x.com/your-handle](https://x.com/your-handle)
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
-## Fun Fact
-
-I enjoy building tools that turn messy real-world problems into clean, intelligent, and actionable systems — whether in security, automation, or analytics.
-
-> “The best solutions are often the ones that make complex work feel simpler.”
+<p align="left">
+  <a href="https://www.buymeacoffee.com/buymeachai.in%2Fparthc"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="Buy me a coffee" /></a>
+  <a href="https://github.com/sponsors/ChaudhariParthh"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
+</p>
