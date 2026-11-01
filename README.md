@@ -1,7 +1,7 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=shark&color=0:4C0519,55:BE185D,100:F97316&fontColor=FFF7ED&height=240&section=header&animation=twinkling" alt="banner" width="100%" /></p>
 
 <h1 align="center">Hi, I'm Parth Chaudhari</h1>
-<h3 align="center">Aspiring Data Analyst · India</h3>
+<h3 align="center">AI Engineer · India</h3>
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=F01924&center=true&vCenter=true&width=600&lines=Workflow%20Automation;Security%20Operations;Data%20Analysis%20%26%20Building%20Dashboards;Building%20products" alt="Typing SVG" /></p>
 
