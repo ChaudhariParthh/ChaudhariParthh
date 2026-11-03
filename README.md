@@ -1,4 +1,3 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=shark&color=0:4C0519,55:BE185D,100:F97316&fontColor=FFF7ED&height=240&section=header&animation=twinkling" alt="banner" width="100%" /></p>
 <h1 align="center">Hi, I'm Parth Chaudhari</h1>
 <h3 align="center">AI Enthusiast  · India</h3>
 
